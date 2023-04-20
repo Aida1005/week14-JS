@@ -18,11 +18,11 @@
 
 4. Как можно получить значение текстового поля из данной формы? (Форма одна)
     <form action="start.php" method="post" name="fld">
-    	<input type="text" name="field" value="Text field">
-    	<input type="submit" value="Старт" name="btn">
-    </form>
-    
-    
+	<input type="text" name="field" value="Text field">
+	<input type="submit" value="Старт" name="btn">
+</form>
+
+   
 5. Какой результат работы данного скрипта?
     
  

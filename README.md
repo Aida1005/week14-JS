@@ -22,6 +22,7 @@
 	<input type="submit" value="Старт" name="btn">
 </form>
 
+        let text = document.querySelector('input');
    
 5. Какой результат работы данного скрипта?
     

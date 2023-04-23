@@ -1,0 +1,25 @@
+body{
+    width: 1000px;
+    height: 1000px;
+    background-color: rgb(251, 218, 178);
+}
+.director-card{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.best-movies {
+    margin-left: 20px;
+}
+
+h1,h2 {
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.top_rated_film{
+    margin-left: 40px;
+    font-style:italic;
+    font-size: large;
+    margin-bottom: 40px;
+}
